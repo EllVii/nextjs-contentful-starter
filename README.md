@@ -1,4 +1,4 @@
-# Netlify Next.js + Contentful Minimal Starter
+# Yummy Sweets Made 4 You
 
 ![Screenshot](https://assets.stackbit.com/docs/tutorial-shared-thumb.png)
 
